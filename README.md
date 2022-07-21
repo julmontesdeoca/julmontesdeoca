@@ -1,3 +1,3 @@
-# Julian Montes de Oca (JohnTitor)
+# Julian Montes de Oca
 
 ![metrics](./github-metrics.svg)
