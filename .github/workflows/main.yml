@@ -13,3 +13,6 @@ jobs:
       - uses: julmontesdeoca/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: julmontesdeoca
+          template: classic
+          base: header, activity, metadata
